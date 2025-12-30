@@ -21,7 +21,7 @@ const Navbar = ({theme, setTheme}) => {
         <li>Contact</li>
       </ul>
       <div className="search-box">
-        <input type="text" placeholder="Search..." />
+        <input type="text" placeholder="search...."/>
         <img src={search_w} alt="search_white"/>
         
       </div>

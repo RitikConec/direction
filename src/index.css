@@ -8,4 +8,9 @@
   width: 100vw;
   height: 100vh;
   background-color: #ced8ff;
+  overflow-x: hidden;
+}
+.product-list {
+  color: black;
+  background-color: transperent;
 }
